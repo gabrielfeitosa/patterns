@@ -31,4 +31,5 @@ public class SMSMensagem implements Mensagem{
 		.append("]");
 		return sb.toString();
 	}
+	
 }
