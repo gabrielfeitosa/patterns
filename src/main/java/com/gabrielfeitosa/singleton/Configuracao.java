@@ -16,7 +16,6 @@ public class Configuracao {
 	private void init() {
 		propriedades.put("smtp", "smtp.mail.com");
 		propriedades.put("antena", "bla.cla.bla");
-		
 	}
 
 	public static Configuracao getInstance(){

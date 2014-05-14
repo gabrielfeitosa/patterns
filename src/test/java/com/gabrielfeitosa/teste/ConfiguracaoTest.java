@@ -1,17 +1,12 @@
 package com.gabrielfeitosa.teste;
 
-import static org.junit.Assert.*;
+import static org.junit.Assert.assertTrue;
 
-import org.junit.Before;
 import org.junit.Test;
 
 import com.gabrielfeitosa.singleton.Configuracao;
 
 public class ConfiguracaoTest {
-
-	@Before
-	public void setUp() throws Exception {
-	}
 
 	@Test
 	public void verificaSeInstanciaUnica() {
