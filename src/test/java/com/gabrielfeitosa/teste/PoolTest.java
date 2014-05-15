@@ -9,7 +9,7 @@ import com.gabrielfeitosa.pool.SMSPool;
 public class PoolTest {
 
 	@Test
-	public void resgatarSMSParaEnvio() {
+	public void test() {
 		Pool<SMSMensagem> mensagensPool = new SMSPool();
 		SMSMensagem sms = null;
 		while((sms = mensagensPool.remover()) != null){
