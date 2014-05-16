@@ -19,3 +19,9 @@ Padrões Estruturais
 - Adapter: Permitir que um objeto seja substituído por outro que, apesar de realizar a mesma tarefa,possui uma interface diferente.
 - Composite: Agrupar objetos que fazem parte de uma relação parte-todo de forma a tratá-los sem distinção.
 - Decorator: Permite adicionar um comportamento a um objeto já existente em tempo de execução.
+
+Padrões Comportamentais
+===
+
+- Observer: Deﬁnir um mecanismo eﬁciente para reagir às alterações realizadas em determinados objetos.
+- Strategy: Permitir de maneira simples a variação dos algoritmos utilizados na resolução de um determinado problema.
